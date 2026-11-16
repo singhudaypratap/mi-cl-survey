@@ -1,0 +1,16 @@
+{
+ "analysis/kappa_compared.csv": "269/269 rows linked to a Scopus EID",
+ "analysis/q6_prisma_sample.csv": "60/60 rows linked to a Scopus EID",
+ "analysis/audit100.csv": "100/100 rows linked to a Scopus EID",
+ "analysis/q6_full_classified.csv": "1617/1617 rows linked to a Scopus EID",
+ "analysis/q6_classified_v2.csv": "1617/1617 rows linked to a Scopus EID",
+ "analysis/flow_v3_cl_papers.csv": "998/998 rows linked to a Scopus EID",
+ "analysis/q6_human_screen_sample.csv": "100/100 rows linked to a Scopus EID",
+ "analysis/screened_corpus.csv": "100/100 rows linked to a Scopus EID",
+ "analysis/flow_v3_mi_papers.csv": "2078/2078 rows linked to a Scopus EID",
+ "analysis/q6_precision_sample.csv": "60/60 rows linked to a Scopus EID",
+ "analysis/adjudicated_corpus.csv": "100/100 rows linked to a Scopus EID",
+ "analysis/citation_flow_per_paper.csv": "100/100 rows linked to a Scopus EID",
+ "analysis/q6_human_screen_key.csv": "100/100 rows linked to a Scopus EID",
+ "kappa_screening_sheet.csv": "269/269 rows linked to a Scopus EID"
+}

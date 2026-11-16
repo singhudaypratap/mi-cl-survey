@@ -1,0 +1,101 @@
+eid,doi,year,src,old_cls,old_role,new_role,mi,why,cl,xai
+2-s2.0-105023181042,10.1145/3746252.3760890,2025,CIKM 2025 - Proceedings of the 34th ACM International Conference on Information and Knowledge Management,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105004052246,10.14569/IJACSA.2025.0160414,2025,International Journal of Advanced Computer Science and Applications,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105035911971,10.1007/s11098-026-02513-1,2026,Philosophical Studies,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85189372452,10.1109/CAC59555.2023.10450353,2023,"Proceedings - 2023 China Automation Congress, CAC 2023",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85113349676,10.1016/j.neunet.2021.08.011,2021,Neural Networks,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105036509033,10.1109/ACCESS.2026.3682652,2026,IEEE Access,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105023583019,,2025,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105000546741,,2024,Advances in Neural Information Processing Systems,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-105008489808,10.1007/978-3-031-91578-9_25,2025,Lecture Notes in Computer Science,CL_ONLY,CL_BG,BRIDGE,False,none,True,True
+2-s2.0-105034280338,,2026,Transactions on Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105033146312,10.1145/3773966.3777977,2026,WSDM 2026 - Proceedings of the 19th ACM International Conference on Web Search and Data Mining,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105045291966,10.1109/CVPR52734.2025.01395,2025,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-85202707243,10.1109/CONIT61985.2024.10626430,2024,"2024 4th International Conference on Intelligent Technologies, CONIT 2024",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85184349929,,2023,Proceedings of Machine Learning Research,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105017853664,10.1109/CVPRW67362.2025.00466,2025,IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85195406338,10.1016/j.neucom.2024.127960,2024,Neurocomputing,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-105021213509,,2025,Transactions on Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85217671388,10.1007/s12369-025-01214-9,2025,International Journal of Social Robotics,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105006475503,10.1007/978-3-031-88720-8_16,2025,Lecture Notes in Computer Science,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85126692230,,2021,Advances in Neural Information Processing Systems,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105003088633,10.1109/ACCESS.2025.3556569,2025,IEEE Access,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105046111168,10.1007/s10994-026-07129-4,2026,Machine Learning,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-105006521300,,2025,Transactions on Machine Learning Research,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85179153743,10.1109/ICCVW60793.2023.00307,2023,"Proceedings - 2023 IEEE/CVF International Conference on Computer Vision Workshops, ICCVW 2023",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105041429708,10.1016/j.cosrev.2026.101011,2026,Computer Science Review,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85150644338,,2020,"8th International Conference on Learning Representations, ICLR 2020",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85190455911,,2023,"11th International Conference on Learning Representations, ICLR 2023",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85085200280,10.1007/978-3-030-43883-8_8,2020,Studies in Computational Intelligence,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85200565427,,2024,"12th International Conference on Learning Representations, ICLR 2024",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105032096462,10.1145/3787104,2026,ACM Computing Surveys,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85178648723,,2023,CEUR Workshop Proceedings,OTHER,EXCLUDED,EXCLUDED,False,none,False,True
+2-s2.0-85204439526,,2024,"ALVR 2024 - 3rd Workshop on Advances in Language and Vision Research, Proceedings of the Workshop",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105008005568,10.1109/ICDSAAI65575.2025.11011640,2025,"2025 International Conference on Data Science, Agents and Artificial Intelligence, ICDSAAI 2025",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105022059203,10.1109/MLSP62443.2025.11204312,2025,"IEEE International Workshop on Machine Learning for Signal Processing, MLSP",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85095864585,10.1145/3340531.3412047,2020,"International Conference on Information and Knowledge Management, Proceedings",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85214789566,10.21437/Interspeech.2024-1911,2024,"Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105028892713,10.1016/B978-0-443-15754-7.00070-5,2025,Learning and Memory: A Comprehensive Reference,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85208389645,,2024,Transactions on Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105035079789,10.1109/ICDM65498.2025.00119,2025,"Proceedings - IEEE International Conference on Data Mining, ICDM",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105015582816,10.1561/2200000116,2025,Foundations and Trends in Machine Learning,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85077515262,10.1016/j.inffus.2019.12.004,2020,Information Fusion,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105042276396,10.1016/j.neucom.2026.134136,2026,Neurocomputing,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85181104419,10.1109/CW58918.2023.00089,2023,"Proceedings - 2023 International Conference on Cyberworlds, CW 2023",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105003190233,10.1145/3716629,2025,ACM Computing Surveys,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85189649014,10.1609/aaai.v38i20.30282,2024,Proceedings of the AAAI Conference on Artificial Intelligence,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85214729809,,2024,Transactions on Machine Learning Research,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-85108437830,,2020,Advances in Neural Information Processing Systems,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85190762929,10.1007/s10994-024-06543-w,2024,Machine Learning,OTHER,EXCLUDED,EXCLUDED,False,none,False,True
+2-s2.0-105023583614,,2025,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-105040136557,,2025,"Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society, AIES 2025",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105047316006,10.1109/BigDataSecurity69476.2026.00010,2026,"Proceedings - 2026 IEEE 12th Conference on Big Data Security on Cloud, BigDataSecurity 2026",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105033209333,10.1002/widm.70075,2026,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85186989207,10.1109/TPAMI.2024.3367329,2024,IEEE Transactions on Pattern Analysis and Machine Intelligence,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85203819081,,2024,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85214919067,10.1145/3677052.3698612,2024,ICAIF 2024 - 5th ACM International Conference on AI in Finance,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-105044042402,10.1527/tjsai.41-4_AN40-D,2026,Transactions of the Japanese Society for Artificial Intelligence,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-105043457445,10.1109/JBHI.2026.3705498,2026,IEEE Journal of Biomedical and Health Informatics,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105014349585,10.1145/3711896.3737606,2025,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85119372916,10.1145/3474085.3475535,2021,MM 2021 - Proceedings of the 29th ACM International Conference on Multimedia,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85194163915,,2024,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85188500217,10.1109/ICCV48922.2021.00938,2021,Proceedings of the IEEE International Conference on Computer Vision,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105040231288,10.2196/81134,2026,JMIR AI,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105021037063,10.18653/v1/2025.acl-long.1385,2025,Proceedings of the Annual Meeting of the Association for Computational Linguistics,INTERSECTION,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85199370485,10.1016/j.neucom.2024.128217,2024,Neurocomputing,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-105032348755,10.1109/ITIS67966.2025.11308862,2025,"Proceeding - 2025 IEEE 11th Information Technology International Seminar, ITIS 2025",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105023565192,,2025,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85096202624,10.1016/j.tics.2020.09.004,2020,Trends in Cognitive Sciences,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85070636226,10.1145/3319619.3322044,2019,GECCO 2019 Companion - Proceedings of the 2019 Genetic and Evolutionary Computation Conference Companion,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85205320720,10.18653/v1/2024.findings-acl.166,2024,Proceedings of the Annual Meeting of the Association for Computational Linguistics,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105009914798,10.1007/978-981-96-6948-6_10,2025,Communications in Computer and Information Science,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105040000182,10.1007/978-3-032-10073-3_23,2026,Synthese Library,MI_ONLY,MI_METHOD,MI_METHOD,True,weak-clean,False,True
+2-s2.0-105034399167,10.1109/INMIC65900.2025.11348249,2025,"2025 27th International Multitopic Conference, INMIC 2025",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85197022634,,2023,Advances in Neural Information Processing Systems,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105005572219,10.1177/02783649251336385,2025,International Journal of Robotics Research,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-105040115165,,2026,CEUR Workshop Proceedings,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-85216572434,,2024,BlackboxNLP 2024 - 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP - Proceedings of the Workshop,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-86000770943,10.1016/j.iswa.2025.200497,2025,Intelligent Systems with Applications,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85204998667,10.1109/IJCNN60899.2024.10651144,2024,Proceedings of the International Joint Conference on Neural Networks,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105014156795,,2025,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105031357823,,2025,Proceedings of Machine Learning Research,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85216622016,,2024,Proceedings of Machine Learning Research,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85203006491,10.1109/ICCE62051.2024.10634606,2024,ICCE 2024 - 2024 IEEE 10th International Conference on Communications and Electronics,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105032117125,10.4337/9781035336906.00068,2025,Elgar Concise Encyclopedia of Artificial Intelligence and the Law,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105023641564,,2025,Proceedings of Machine Learning Research,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-105024551765,10.1109/IV68685.2025.00063,2025,Proceedings of the International Conference on Information Visualisation,OTHER,EXCLUDED,EXCLUDED,False,none,False,False
+2-s2.0-85207968808,10.11999/JEIT240095,2024,Dianzi Yu Xinxi Xuebao/Journal of Electronics and Information Technology,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105011582431,10.1016/j.neucom.2025.131013,2025,Neurocomputing,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105001412671,10.1002/9781394249312.ch10,2025,Explainable Artificial Intelligence in the Healthcare Industry,OTHER,EXCLUDED,EXCLUDED,False,none,False,False
+2-s2.0-105027330579,10.12263/DZXB.20240750,2025,Tien Tzu Hsueh Pao/Acta Electronica Sinica,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85137763635,10.1109/CVPRW56347.2022.00427,2022,IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85148447430,10.1613/JAIR.1.13673,2022,Journal of Artificial Intelligence Research,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-85169069948,10.1109/ICCV51070.2023.00181,2023,Proceedings of the IEEE International Conference on Computer Vision,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-105024757413,10.1016/j.neunet.2025.108422,2026,Neural Networks,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105019189584,10.1002/widm.70046,2025,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,CL_ONLY,BRIDGE,BRIDGE,False,none,True,True
+2-s2.0-105010208328,,2025,"13th International Conference on Learning Representations, ICLR 2025",MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,False
+2-s2.0-85079885297,10.1109/TNNLS.2020.2967051,2020,IEEE Transactions on Neural Networks and Learning Systems,OTHER,EXCLUDED,EXCLUDED,False,none,False,False
+2-s2.0-105035624398,10.1007/978-3-032-21321-1_6,2026,Lecture Notes in Computer Science,MI_ONLY,MI_METHOD,MI_METHOD,True,strong,False,True
+2-s2.0-85187294054,10.1109/SMC53992.2023.10394607,2023,"Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics",CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105024982580,10.1145/3735633,2025,ACM Computing Surveys,CL_ONLY,CL_BG,CL_BG,False,none,True,False
+2-s2.0-105043893864,,2026,AAAI Spring Symposium - Technical Report,CL_ONLY,CL_BG,CL_BG,False,none,True,False

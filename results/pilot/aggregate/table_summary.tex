@@ -1,0 +1,45 @@
+\begin{table}[t]
+\centering\small
+\caption{Split CIFAR-10, ResNet-18, 5 tasks, 20 epochs/task; values at the final checkpoint, mean $\pm$ sd over seeds [0, 1, 2]; dictionary metrics first averaged over 3 dictionary seeds.}
+\begin{tabular}{lcccc}
+\toprule
+Metric & naive & replay & ewc & noshift \\
+\midrule
+ACC (CIL) & 0.194 $\pm$ 0.001 & 0.589 $\pm$ 0.003 & 0.185 $\pm$ 0.008 & 0.984 $\pm$ 0.004 \\
+BWT (CIL) & -0.925 $\pm$ 0.016 & -0.450 $\pm$ 0.008 & -0.923 $\pm$ 0.002 & 0.004 $\pm$ 0.009 \\
+ACC (TIL) & 0.621 $\pm$ 0.011 & 0.913 $\pm$ 0.003 & 0.793 $\pm$ 0.019 & 0.984 $\pm$ 0.004 \\
+BWT (TIL) & -0.391 $\pm$ 0.031 & -0.055 $\pm$ 0.004 & -0.163 $\pm$ 0.018 & 0.004 $\pm$ 0.009 \\
+T1 output acc (TIL) & 0.517 $\pm$ 0.049 & 0.942 $\pm$ 0.005 & 0.725 $\pm$ 0.191 & 0.984 $\pm$ 0.004 \\
+T1 probe refit, pen & 0.910 $\pm$ 0.026 & 0.976 $\pm$ 0.004 & 0.963 $\pm$ 0.006 & 0.989 $\pm$ 0.002 \\
+T1 probe frozen, pen & 0.433 $\pm$ 0.168 & 0.688 $\pm$ 0.183 & 0.537 $\pm$ 0.081 & 0.975 $\pm$ 0.015 \\
+T1 probe refit, mid & 0.941 $\pm$ 0.007 & 0.977 $\pm$ 0.003 & 0.973 $\pm$ 0.003 & 0.987 $\pm$ 0.003 \\
+T1 probe frozen, mid & 0.505 $\pm$ 0.008 & 0.503 $\pm$ 0.006 & 0.713 $\pm$ 0.185 & 0.500 $\pm$ 0.001 \\
+CKA(t0,T), pen & 0.451 $\pm$ 0.023 & 0.649 $\pm$ 0.084 & 0.536 $\pm$ 0.045 & 0.769 $\pm$ 0.042 \\
+CKA(t0,T), mid & 0.530 $\pm$ 0.092 & 0.753 $\pm$ 0.082 & 0.687 $\pm$ 0.021 & 0.852 $\pm$ 0.056 \\
+SAE explained var. & -6.878 $\pm$ 4.215 & -1.214 $\pm$ 0.452 & -2.250 $\pm$ 1.890 & 0.451 $\pm$ 0.084 \\
+Random-dict explained var. & -606.681 $\pm$ 118.158 & -18.475 $\pm$ 3.911 & -237.682 $\pm$ 180.313 & -32.730 $\pm$ 10.307 \\
+SAE persistence (frac active) & 0.076 $\pm$ 0.073 & 0.556 $\pm$ 0.132 & 0.049 $\pm$ 0.067 & 0.278 $\pm$ 0.060 \\
+SAE persistence (corr) & -0.020 $\pm$ 0.092 & 0.055 $\pm$ 0.046 & 0.015 $\pm$ 0.063 & 0.280 $\pm$ 0.080 \\
+SAE causal load (mean abl., err-pres.) & 0.322 $\pm$ 0.350 & 0.213 $\pm$ 0.148 & 0.001 $\pm$ 0.002 & 0.009 $\pm$ 0.013 \\
+SAE causal load (resample abl., err-pres.) & 0.257 $\pm$ 0.309 & 0.265 $\pm$ 0.141 & 0.003 $\pm$ 0.004 & 0.111 $\pm$ 0.084 \\
+Neuron persistence (frac active) & 0.000 $\pm$ 0.000 & 0.292 $\pm$ 0.282 & 0.083 $\pm$ 0.095 & 0.333 $\pm$ 0.253 \\
+Neuron persistence (corr) & -0.022 $\pm$ 0.046 & 0.650 $\pm$ 0.168 & 0.330 $\pm$ 0.151 & 0.937 $\pm$ 0.010 \\
+Neuron causal load (mean abl., err-pres.) & 0.003 $\pm$ 0.006 & 0.012 $\pm$ 0.011 & 0.006 $\pm$ 0.002 & -0.001 $\pm$ 0.001 \\
+Neuron causal load (resample abl., err-pres.) & 0.011 $\pm$ 0.007 & 0.033 $\pm$ 0.028 & 0.012 $\pm$ 0.003 & 0.000 $\pm$ 0.001 \\
+Random dict persistence (frac active) & 0.194 $\pm$ 0.084 & 0.236 $\pm$ 0.024 & 0.194 $\pm$ 0.064 & 0.347 $\pm$ 0.094 \\
+Random dict persistence (corr) & 0.024 $\pm$ 0.135 & 0.488 $\pm$ 0.054 & 0.266 $\pm$ 0.090 & 0.720 $\pm$ 0.140 \\
+Random dict causal load (mean abl., err-pres.) & 0.318 $\pm$ 0.160 & 0.006 $\pm$ 0.003 & 0.007 $\pm$ 0.003 & -0.000 $\pm$ 0.001 \\
+Random dict causal load (resample abl., err-pres.) & 0.329 $\pm$ 0.095 & 0.033 $\pm$ 0.024 & 0.019 $\pm$ 0.009 & 0.002 $\pm$ 0.003 \\
+PCA persistence (corr) & 0.031 $\pm$ 0.034 & 0.082 $\pm$ 0.013 & 0.123 $\pm$ 0.025 & 0.254 $\pm$ 0.035 \\
+PCA causal load (mean abl., err-pres.) & 0.453 $\pm$ 0.312 & 0.282 $\pm$ 0.155 & 0.015 $\pm$ 0.003 & 0.069 $\pm$ 0.031 \\
+PCA causal load (resample abl., err-pres.) & 0.430 $\pm$ 0.190 & 0.346 $\pm$ 0.140 & 0.043 $\pm$ 0.015 & 0.452 $\pm$ 0.014 \\
+SAE causal load (mean abl., recon) & 0.029 $\pm$ 0.050 & 0.131 $\pm$ 0.087 & -0.002 $\pm$ 0.005 & 0.178 $\pm$ 0.166 \\
+Patch recovery stem (TIL) & -0.049 $\pm$ 0.108 & -3.315 $\pm$ 1.647 & 0.019 $\pm$ 0.072 & n/a [3 NaN] \\
+Patch recovery layer1 (TIL) & -0.069 $\pm$ 0.211 & -1.701 $\pm$ 1.142 & 0.055 $\pm$ 0.070 & n/a [3 NaN] \\
+Patch recovery layer2 (TIL) & -0.054 $\pm$ 0.134 & -5.742 $\pm$ 1.322 & -0.028 $\pm$ 0.380 & n/a [3 NaN] \\
+Patch recovery layer3 (TIL) & 0.045 $\pm$ 0.247 & -1.634 $\pm$ 1.195 & -0.278 $\pm$ 1.193 & n/a [3 NaN] \\
+Patch recovery layer4 (TIL) & -0.746 $\pm$ 0.687 & -0.439 $\pm$ 1.843 & 1.000 $\pm$ 0.000 & n/a [3 NaN] \\
+Patch recovery head (TIL) & 0.039 $\pm$ 0.540 & -1.139 $\pm$ 0.360 & 0.008 $\pm$ 0.024 & n/a [3 NaN] \\
+\bottomrule
+\end{tabular}
+\end{table}

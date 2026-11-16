@@ -1,0 +1,101 @@
+year,source,doctype,cited_by,doi,eid,cls,n_mi,n_cl,n_xai,mi_hits,cl_hits
+2025,CIKM 2025 - Proceedings of the 34th ACM International Conference on Information and Knowledge Management,Conference paper,0,10.1145/3746252.3760890,2-s2.0-105023181042,MI_ONLY,1,0,1,mechanistic interpretab,
+2025,International Journal of Advanced Computer Science and Applications,Article,3,10.14569/IJACSA.2025.0160414,2-s2.0-105004052246,CL_ONLY,0,3,0,,continual learn|lifelong learn|catastrophic forget
+2026,Philosophical Studies,Article,0,10.1007/s11098-026-02513-1,2-s2.0-105035911971,MI_ONLY,3,0,1,mechanistic interpretab|\bcircuit|\bgrokking\b,
+2023,"Proceedings - 2023 China Automation Congress, CAC 2023",Conference paper,0,10.1109/CAC59555.2023.10450353,2-s2.0-85189372452,CL_ONLY,0,3,0,,continual learn|lifelong learn|incremental learn
+2021,Neural Networks,Article,6,10.1016/j.neunet.2021.08.011,2-s2.0-85113349676,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2026,IEEE Access,Article,0,10.1109/ACCESS.2026.3682652,2-s2.0-105036509033,CL_ONLY,0,1,0,,continual relation
+2025,Proceedings of Machine Learning Research,Conference paper,0,,2-s2.0-105023583019,MI_ONLY,2,0,1,mechanistic interpretab|\bcircuit,
+2024,Advances in Neural Information Processing Systems,Conference paper,1,,2-s2.0-105000546741,MI_ONLY,2,0,2,mechanistic interpretab|reverse.engineer,
+2025,Lecture Notes in Computer Science,Conference paper,0,10.1007/978-3-031-91578-9_25,2-s2.0-105008489808,CL_ONLY,0,2,1,,continual learn|catastrophic forget
+2026,Transactions on Machine Learning Research,Article,0,,2-s2.0-105034280338,MI_ONLY,2,0,1,mechanistic interpretab|attention head,
+2026,WSDM 2026 - Proceedings of the 19th ACM International Conference on Web Search and Data Mining,Conference paper,2,10.1145/3773966.3777977,2-s2.0-105033146312,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,Conference paper,11,10.1109/CVPR52734.2025.01395,2-s2.0-105045291966,CL_ONLY,0,2,2,,continual learn|catastrophic forget
+2024,"2024 4th International Conference on Intelligent Technologies, CONIT 2024",Conference paper,0,10.1109/CONIT61985.2024.10626430,2-s2.0-85202707243,MI_ONLY,2,0,1,mechanistic interpretab|\bgrokking\b,
+2023,Proceedings of Machine Learning Research,Conference paper,3,,2-s2.0-85184349929,CL_ONLY,0,1,0,,continual learn
+2025,IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,Conference paper,1,10.1109/CVPRW67362.2025.00466,2-s2.0-105017853664,MI_ONLY,4,0,2,mechanistic interpretab|\bcircuit|polysemant|feature visuali,
+2024,Neurocomputing,Article,9,10.1016/j.neucom.2024.127960,2-s2.0-85195406338,CL_ONLY,0,3,2,,continual learn|lifelong learn|class.incremental
+2025,Transactions on Machine Learning Research,Article,8,,2-s2.0-105021213509,MI_ONLY,1,0,1,mechanistic interpretab,
+2025,International Journal of Social Robotics,Article,8,10.1007/s12369-025-01214-9,2-s2.0-85217671388,CL_ONLY,0,1,0,,continual learn
+2025,Lecture Notes in Computer Science,Conference paper,4,10.1007/978-3-031-88720-8_16,2-s2.0-105006475503,MI_ONLY,1,0,3,mechanistic interpretab,
+2021,Advances in Neural Information Processing Systems,Conference paper,79,,2-s2.0-85126692230,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,IEEE Access,Article,5,10.1109/ACCESS.2025.3556569,2-s2.0-105003088633,CL_ONLY,0,4,1,,continual learn|lifelong learn|incremental learn|catastrophic forget
+2026,Machine Learning,Article,0,10.1007/s10994-026-07129-4,2-s2.0-105046111168,MI_ONLY,2,0,2,mechanistic interpretab|reverse.engineer,
+2025,Transactions on Machine Learning Research,Article,2,,2-s2.0-105006521300,CL_ONLY,0,2,0,,continual learn|continual pretrain
+2023,"Proceedings - 2023 IEEE/CVF International Conference on Computer Vision Workshops, ICCVW 2023",Conference paper,27,10.1109/ICCVW60793.2023.00307,2-s2.0-85179153743,MI_ONLY,3,0,1,mechanistic interpretab|\bcircuit|causal tracing,
+2026,Computer Science Review,Article,0,10.1016/j.cosrev.2026.101011,2-s2.0-105041429708,MI_ONLY,1,0,1,mechanistic interpretab,
+2020,"8th International Conference on Learning Representations, ICLR 2020",Conference paper,18,,2-s2.0-85150644338,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2023,"11th International Conference on Learning Representations, ICLR 2023",Conference paper,201,,2-s2.0-85190455911,MI_ONLY,4,0,1,mechanistic interpretab|\bcircuit|reverse.engineer|\bgrokking\b,
+2020,Studies in Computational Intelligence,Book chapter,24,10.1007/978-3-030-43883-8_8,2-s2.0-85085200280,CL_ONLY,0,4,0,,continual learn|incremental learn|catastrophic forget|experience replay
+2024,"12th International Conference on Learning Representations, ICLR 2024",Conference paper,8,,2-s2.0-85200565427,MI_ONLY,4,0,1,mechanistic interpretab|\bcircuit|activation patching|reverse.engineer,
+2026,ACM Computing Surveys,Article,7,10.1145/3787104,2-s2.0-105032096462,MI_ONLY,5,0,3,mechanistic interpretab|\bcircuit|polysemant|reverse.engineer|attention head,
+2023,CEUR Workshop Proceedings,Conference paper,0,,2-s2.0-85178648723,OTHER,0,0,3,,
+2024,"ALVR 2024 - 3rd Workshop on Advances in Language and Vision Research, Proceedings of the Workshop",Conference paper,2,,2-s2.0-85204439526,CL_ONLY,0,2,0,,continual learn|experience replay
+2025,"2025 International Conference on Data Science, Agents and Artificial Intelligence, ICDSAAI 2025",Conference paper,16,10.1109/ICDSAAI65575.2025.11011640,2-s2.0-105008005568,MI_ONLY,5,0,1,mechanistic interpretab|\bcircuit|superposition|polysemant|reverse.engineer,
+2025,"IEEE International Workshop on Machine Learning for Signal Processing, MLSP",Conference paper,1,10.1109/MLSP62443.2025.11204312,2-s2.0-105022059203,CL_ONLY,0,3,0,,continual learn|catastrophic forget|continual adapt
+2020,"International Conference on Information and Knowledge Management, Proceedings",Conference paper,13,10.1145/3340531.3412047,2-s2.0-85095864585,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2024,"Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH",Conference paper,0,10.21437/Interspeech.2024-1911,2-s2.0-85214789566,CL_ONLY,0,1,0,,continual learn
+2025,Learning and Memory: A Comprehensive Reference,Book chapter,0,10.1016/B978-0-443-15754-7.00070-5,2-s2.0-105028892713,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2024,Transactions on Machine Learning Research,Article,65,,2-s2.0-85208389645,MI_ONLY,2,0,1,mechanistic interpretab|reverse.engineer,
+2025,"Proceedings - IEEE International Conference on Data Mining, ICDM",Conference paper,0,10.1109/ICDM65498.2025.00119,2-s2.0-105035079789,CL_ONLY,0,2,1,,continual learn|lifelong learn
+2025,Foundations and Trends in Machine Learning,Article,3,10.1561/2200000116,2-s2.0-105015582816,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2020,Information Fusion,Article,491,10.1016/j.inffus.2019.12.004,2-s2.0-85077515262,CL_ONLY,0,3,0,,continual learn|lifelong learn|catastrophic forget
+2026,Neurocomputing,Review,0,10.1016/j.neucom.2026.134136,2-s2.0-105042276396,CL_ONLY,0,3,0,,continual learn|lifelong learn|incremental learn
+2023,"Proceedings - 2023 International Conference on Cyberworlds, CW 2023",Conference paper,2,10.1109/CW58918.2023.00089,2-s2.0-85181104419,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,ACM Computing Surveys,Article,52,10.1145/3716629,2-s2.0-105003190233,CL_ONLY,0,4,0,,continual learn|lifelong learn|incremental learn|catastrophic forget
+2024,Proceedings of the AAAI Conference on Artificial Intelligence,Conference paper,0,10.1609/aaai.v38i20.30282,2-s2.0-85189649014,CL_ONLY,0,1,0,,continual learn
+2024,Transactions on Machine Learning Research,Article,3,,2-s2.0-85214729809,CL_ONLY,0,2,2,,continual learn|catastrophic forget
+2020,Advances in Neural Information Processing Systems,Conference paper,34,,2-s2.0-85108437830,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2024,Machine Learning,Article,102,10.1007/s10994-024-06543-w,2-s2.0-85190762929,OTHER,0,0,2,,
+2025,Proceedings of Machine Learning Research,Conference paper,3,,2-s2.0-105023583614,MI_ONLY,3,0,2,mechanistic interpretab|\bcircuit|sparse autoencoder,
+2025,"Proceedings of the 8th AAAI/ACM Conference on AI, Ethics, and Society, AIES 2025",Conference paper,2,,2-s2.0-105040136557,MI_ONLY,1,0,1,mechanistic interpretab,
+2026,"Proceedings - 2026 IEEE 12th Conference on Big Data Security on Cloud, BigDataSecurity 2026",Conference paper,0,10.1109/BigDataSecurity69476.2026.00010,2-s2.0-105047316006,CL_ONLY,0,3,0,,continual learn|incremental learn|catastrophic forget
+2026,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,Review,6,10.1002/widm.70075,2-s2.0-105033209333,MI_ONLY,1,0,3,mechanistic interpretab,
+2024,IEEE Transactions on Pattern Analysis and Machine Intelligence,Article,1141,10.1109/TPAMI.2024.3367329,2-s2.0-85186989207,CL_ONLY,0,4,0,,continual learn|lifelong learn|incremental learn|catastrophic forget
+2024,Proceedings of Machine Learning Research,Conference paper,1,,2-s2.0-85203819081,MI_ONLY,1,0,1,mechanistic interpretab,
+2024,ICAIF 2024 - 5th ACM International Conference on AI in Finance,Conference paper,2,10.1145/3677052.3698612,2-s2.0-85214919067,MI_ONLY,5,0,2,mechanistic interpretab|\bcircuit|activation patching|reverse.engineer|attention head,
+2026,Transactions of the Japanese Society for Artificial Intelligence,Article,0,10.1527/tjsai.41-4_AN40-D,2-s2.0-105044042402,MI_ONLY,2,0,2,mechanistic interpretab|\bcircuit,
+2026,IEEE Journal of Biomedical and Health Informatics,Article,0,10.1109/JBHI.2026.3705498,2-s2.0-105043457445,CL_ONLY,0,4,0,,continual learn|lifelong learn|catastrophic forget|experience replay
+2025,Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,Conference paper,1,10.1145/3711896.3737606,2-s2.0-105014349585,MI_ONLY,2,0,3,mechanistic interpretab|reverse.engineer,
+2021,MM 2021 - Proceedings of the 29th ACM International Conference on Multimedia,Conference paper,60,10.1145/3474085.3475535,2-s2.0-85119372916,CL_ONLY,0,4,0,,continual learn|continuous learn|incremental learn|catastrophic forget
+2024,Proceedings of Machine Learning Research,Conference paper,11,,2-s2.0-85194163915,MI_ONLY,4,0,1,mechanistic interpretab|\bcircuit|reverse.engineer|attention head,
+2021,Proceedings of the IEEE International Conference on Computer Vision,Conference paper,364,10.1109/ICCV48922.2021.00938,2-s2.0-85188500217,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2026,JMIR AI,Article,1,10.2196/81134,2-s2.0-105040231288,MI_ONLY,2,0,1,mechanistic interpretab|sparse autoencoder,
+2025,Proceedings of the Annual Meeting of the Association for Computational Linguistics,Conference paper,0,10.18653/v1/2025.acl-long.1385,2-s2.0-105021037063,INTERSECTION,1,1,1,attention head,continual learn
+2024,Neurocomputing,Short survey,6,10.1016/j.neucom.2024.128217,2-s2.0-85199370485,CL_ONLY,0,3,1,,continual learn|continuous learn|catastrophic forget
+2025,"Proceeding - 2025 IEEE 11th Information Technology International Seminar, ITIS 2025",Conference paper,0,10.1109/ITIS67966.2025.11308862,2-s2.0-105032348755,CL_ONLY,0,2,0,,continual learn|incremental learn
+2025,Proceedings of Machine Learning Research,Conference paper,0,,2-s2.0-105023565192,MI_ONLY,2,0,1,mechanistic interpretab|\bcircuit,
+2020,Trends in Cognitive Sciences,Review,528,10.1016/j.tics.2020.09.004,2-s2.0-85096202624,CL_ONLY,0,1,0,,continual learn
+2019,GECCO 2019 Companion - Proceedings of the 2019 Genetic and Evolutionary Computation Conference Companion,Conference paper,6,10.1145/3319619.3322044,2-s2.0-85070636226,CL_ONLY,0,1,0,,continual learn
+2024,Proceedings of the Annual Meeting of the Association for Computational Linguistics,Conference paper,0,10.18653/v1/2024.findings-acl.166,2-s2.0-85205320720,CL_ONLY,0,1,0,,continual learn
+2025,Communications in Computer and Information Science,Conference paper,0,10.1007/978-981-96-6948-6_10,2-s2.0-105009914798,MI_ONLY,3,0,1,mechanistic interpretab|\bcircuit|reverse.engineer,
+2026,Synthese Library,Book chapter,1,10.1007/978-3-032-10073-3_23,2-s2.0-105040000182,MI_ONLY,1,0,2,\bcircuit,
+2025,"2025 27th International Multitopic Conference, INMIC 2025",Conference paper,0,10.1109/INMIC65900.2025.11348249,2-s2.0-105034399167,MI_ONLY,6,0,2,mechanistic interpretab|\bcircuit|superposition|polysemant|activation patching|attention head,
+2023,Advances in Neural Information Processing Systems,Conference paper,14,,2-s2.0-85197022634,MI_ONLY,1,0,1,mechanistic interpretab,
+2025,International Journal of Robotics Research,Article,2,10.1177/02783649251336385,2-s2.0-105005572219,CL_ONLY,0,3,2,,continual learn|lifelong learn|catastrophic forget
+2026,CEUR Workshop Proceedings,Conference paper,0,,2-s2.0-105040115165,CL_ONLY,0,2,3,,continual learn|experience replay
+2024,BlackboxNLP 2024 - 7th BlackboxNLP Workshop: Analyzing and Interpreting Neural Networks for NLP - Proceedings of the Workshop,Conference paper,15,,2-s2.0-85216572434,MI_ONLY,1,0,1,mechanistic interpretab,
+2025,Intelligent Systems with Applications,Review,1,10.1016/j.iswa.2025.200497,2-s2.0-86000770943,CL_ONLY,0,3,0,,continual learn|incremental learn|domain.incremental
+2024,Proceedings of the International Joint Conference on Neural Networks,Conference paper,1,10.1109/IJCNN60899.2024.10651144,2-s2.0-85204998667,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,Proceedings of Machine Learning Research,Conference paper,0,,2-s2.0-105014156795,MI_ONLY,3,0,1,mechanistic interpretab|causal abstraction|reverse.engineer,
+2025,Proceedings of Machine Learning Research,Conference paper,0,,2-s2.0-105031357823,CL_ONLY,0,1,0,,continual learn
+2024,Proceedings of Machine Learning Research,Conference paper,0,,2-s2.0-85216622016,CL_ONLY,0,1,0,,continual learn
+2024,ICCE 2024 - 2024 IEEE 10th International Conference on Communications and Electronics,Conference paper,0,10.1109/ICCE62051.2024.10634606,2-s2.0-85203006491,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,Elgar Concise Encyclopedia of Artificial Intelligence and the Law,Book chapter,0,10.4337/9781035336906.00068,2-s2.0-105032117125,MI_ONLY,3,0,1,mechanistic interpretab|\bcircuit|reverse.engineer,
+2025,Proceedings of Machine Learning Research,Conference paper,1,,2-s2.0-105023641564,MI_ONLY,2,0,1,mechanistic interpretab|reverse.engineer,
+2025,Proceedings of the International Conference on Information Visualisation,Conference paper,0,10.1109/IV68685.2025.00063,2-s2.0-105024551765,OTHER,0,0,1,,
+2024,Dianzi Yu Xinxi Xuebao/Journal of Electronics and Information Technology,Article,5,10.11999/JEIT240095,2-s2.0-85207968808,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,Neurocomputing,Article,0,10.1016/j.neucom.2025.131013,2-s2.0-105011582431,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,Explainable Artificial Intelligence in the Healthcare Industry,Book chapter,0,10.1002/9781394249312.ch10,2-s2.0-105001412671,OTHER,0,0,1,,
+2025,Tien Tzu Hsueh Pao/Acta Electronica Sinica,Article,0,10.12263/DZXB.20240750,2-s2.0-105027330579,CL_ONLY,0,2,0,,continual learn|incremental learn
+2022,IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops,Conference paper,29,10.1109/CVPRW56347.2022.00427,2-s2.0-85137763635,CL_ONLY,0,1,0,,continual learn
+2022,Journal of Artificial Intelligence Research,Article,210,10.1613/JAIR.1.13673,2-s2.0-85148447430,CL_ONLY,0,1,0,,continual learn
+2023,Proceedings of the IEEE International Conference on Computer Vision,Conference paper,35,10.1109/ICCV51070.2023.00181,2-s2.0-85169069948,CL_ONLY,0,3,2,,continual learn|incremental learn|class.incremental
+2026,Neural Networks,Article,0,10.1016/j.neunet.2025.108422,2-s2.0-105024757413,CL_ONLY,0,4,0,,continual learn|incremental learn|catastrophic forget|class.incremental
+2025,Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery,Review,2,10.1002/widm.70046,2-s2.0-105019189584,CL_ONLY,0,2,1,,continual learn|catastrophic forget
+2025,"13th International Conference on Learning Representations, ICLR 2025",Conference paper,3,,2-s2.0-105010208328,MI_ONLY,3,0,1,mechanistic interpretab|\bcircuit|reverse.engineer,
+2020,IEEE Transactions on Neural Networks and Learning Systems,Article,99,10.1109/TNNLS.2020.2967051,2-s2.0-85079885297,OTHER,0,0,1,,
+2026,Lecture Notes in Computer Science,Conference paper,0,10.1007/978-3-032-21321-1_6,2-s2.0-105035624398,MI_ONLY,2,0,2,mechanistic interpretab|reverse.engineer,
+2023,"Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics",Conference paper,0,10.1109/SMC53992.2023.10394607,2-s2.0-85187294054,CL_ONLY,0,2,0,,continual learn|catastrophic forget
+2025,ACM Computing Surveys,Article,57,10.1145/3735633,2-s2.0-105024982580,CL_ONLY,0,3,0,,continual learn|catastrophic forget|continual adapt
+2026,AAAI Spring Symposium - Technical Report,Conference paper,0,,2-s2.0-105043893864,CL_ONLY,0,2,1,,continual learn|catastrophic forget

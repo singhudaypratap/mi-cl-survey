@@ -1,0 +1,63 @@
+{
+  "_comment": "Smoke test only: ~2% of data, 1 epoch, 2 tasks, tiny SAE. Numbers are meaningless.",
+  "n_tasks": 2,
+  "classes_per_task": 2,
+  "class_order": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "data_fraction": 0.02,
+  "data_subset_seed": 0,
+  "norm_mean": [
+    0.4914,
+    0.4822,
+    0.4465
+  ],
+  "norm_std": [
+    0.247,
+    0.2435,
+    0.2616
+  ],
+  "aug_crop_padding": 4,
+  "aug_hflip": true,
+  "epochs_per_task": 1,
+  "batch_size": 32,
+  "optimizer": "sgd",
+  "lr": 0.03,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "lr_schedule": "constant_per_task_fresh_optimizer",
+  "amp": true,
+  "deterministic_strict": true,
+  "num_workers": 0,
+  "eval_batch_size": 128,
+  "replay_buffer_size": 50,
+  "replay_batch_size": 32,
+  "ewc_lambda": 100.0,
+  "ewc_fisher_samples": 32,
+  "probe_C": 1.0,
+  "probe_max_iter": 2000,
+  "mid_layer": "layer3",
+  "sae_expansion": 2,
+  "sae_l1": 0.004,
+  "sae_lr": 0.001,
+  "sae_epochs": 2,
+  "sae_batch_size": 64,
+  "sae_aug_views": 1,
+  "sae_seeds": [
+    0,
+    1
+  ],
+  "top_k": 8,
+  "persistence_tau": 0.5,
+  "patch_min_gap": 0.02,
+  "min_fire_rate": 0.01
+}

@@ -1,0 +1,27 @@
+{
+  "MI_population": {
+    "papers": 2078,
+    "refs": 83066,
+    "hits": 2141,
+    "rate": 2.5774685190089808,
+    "papers_hit": 369
+  },
+  "CL_population": {
+    "papers": 998,
+    "refs": 59922,
+    "hits": 22,
+    "rate": 0.03671439538066153,
+    "papers_hit": 7
+  },
+  "baselines": {
+    "meta-learning / few-shot": 1074,
+    "federated learning": 800,
+    "knowledge distillation": 750,
+    "self-supervised/contrastive": 539,
+    "graph neural networks": 333,
+    "neural architecture search": 147,
+    "adversarial robustness": 139,
+    "mechanistic interpretability": 22
+  },
+  "total_refs": 59922
+}

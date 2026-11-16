@@ -1,0 +1,34 @@
+{
+  "MI_ONLY": {
+    "papers": 37,
+    "refs": 3541,
+    "mi": 764,
+    "cl": 4,
+    "both": 0,
+    "neither": 2773
+  },
+  "CL_ONLY": {
+    "papers": 57,
+    "refs": 5190,
+    "mi": 12,
+    "cl": 2223,
+    "both": 3,
+    "neither": 2952
+  },
+  "OTHER": {
+    "papers": 5,
+    "refs": 426,
+    "mi": 2,
+    "cl": 3,
+    "both": 0,
+    "neither": 421
+  },
+  "INTERSECTION": {
+    "papers": 1,
+    "refs": 44,
+    "mi": 5,
+    "cl": 9,
+    "both": 0,
+    "neither": 30
+  }
+}

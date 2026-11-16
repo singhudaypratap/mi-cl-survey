@@ -1,0 +1,61 @@
+eid,doi,sample_n,row,cited_by,classifier_reason,strict_include,broad_include,exclusion_note
+2-s2.0-105039308320,10.1016/j.rcim.2026.103335,1,274,1,weak-interpretability-language,False,False,R6 no interpretability claim at all
+2-s2.0-105044103443,10.1109/ICAISISAS68969.2026.11567878,2,67,0,weak-interpretability-language,False,True,
+2-s2.0-105021037063,10.18653/v1/2025.acl-long.1385,3,689,0,weak-interpretability-language,False,False,R1 gestural (interpretability cited as motivation only)
+2-s2.0-85202350727,10.1016/j.egyai.2024.100419,4,601,101,strong,False,False,R6 XAI future-direction only
+2-s2.0-85190237257,10.1016/j.bspc.2024.106320,5,558,1,weak-interpretability-language,True,True,
+2-s2.0-105043466950,10.3389/fdgth.2026.1871960,6,344,0,strong,False,False,R2 buzzword-list survey
+2-s2.0-105028264910,10.13998/j.cnki.issn1002-1248.25-0422,7,244,0,weak-interpretability-language,False,False,R5 no genuine CL
+2-s2.0-105024898495,10.1007/s00500-025-10935-y,8,213,0,weak-interpretability-language,False,True,
+2-s2.0-84951778230,,9,1087,0,weak-interpretability-language,True,True,
+2-s2.0-105030491757,10.1016/j.future.2025.108310,10,80,4,strong,True,True,
+2-s2.0-105022897947,10.1016/j.energy.2025.139456,11,78,5,weak-interpretability-language,True,True,
+2-s2.0-105023773314,10.4018/979-8-3373-7574-8.ch002,12,223,0,strong,False,False,R3 lifelong learning = pedagogical sense
+2-s2.0-105032848804,10.1109/ICTBIG68706.2025.11323666,13,542,0,weak-interpretability-language,True,True,
+2-s2.0-105013771240,10.1109/ACCESS.2025.3600620,14,573,2,weak-interpretability-language,False,False,R1 gestural
+2-s2.0-84872155077,10.1016/j.comcom.2012.09.010,15,1446,126,weak-interpretability-language,False,False,R1 gestural
+2-s2.0-105044184204,10.1109/TITS.2026.3707838,16,70,0,weak-interpretability-language,False,False,R6 XAI motivation only
+2-s2.0-105044393709,10.1016/j.flowmeasinst.2026.103484,17,492,0,weak-interpretability-language,False,False,R1 gestural review mention
+2-s2.0-85101703997,10.1109/TKDE.2019.2956713,18,1076,15,weak-interpretability-language,False,True,
+2-s2.0-85185770680,10.1007/978-3-031-46177-4_29,19,544,1,weak-interpretability-language,False,False,R1/R6 no real interpretability signal
+2-s2.0-84929149166,10.1016/j.asoc.2015.04.044,20,1223,14,weak-interpretability-language,False,True,
+2-s2.0-85205740089,10.1007/s13042-024-02367-1,21,693,3,weak-interpretability-language,False,False,R1 interpretability only criticised in prior work
+2-s2.0-105042344059,10.1109/ICCIAA68481.2026.11543617,22,12,0,strong,False,False,R2 buzzword-list survey
+2-s2.0-105015519700,10.1016/j.jisa.2025.104219,23,389,0,strong,True,True,
+2-s2.0-105002563739,10.1109/OJCOMS.2025.3560035,24,867,35,strong,False,False,R2 buzzword-list survey
+2-s2.0-105039613499,10.1109/TEVC.2026.3694385,25,383,0,weak-interpretability-language,False,False,R1 gestural
+2-s2.0-105002327972,10.1109/TII.2024.3523595,26,535,12,weak-interpretability-language,False,True,
+2-s2.0-85216077286,10.1016/j.ipm.2025.104078,27,857,34,weak-interpretability-language,False,False,R1 gestural outcome claim
+2-s2.0-105041286901,10.1109/ICDSAAI69492.2026.11505084,28,222,0,weak-interpretability-language,False,False,"R3/R5 pedagogical AI, no ML CL"
+2-s2.0-85204916747,10.1016/j.cej.2024.155987,29,945,16,weak-interpretability-language,True,True,
+2-s2.0-105047163645,10.1016/j.bspc.2026.111261,30,235,0,strong,True,True,
+2-s2.0-105019047117,10.1109/AMLDS63918.2025.11159334,31,906,0,weak-interpretability-language,False,False,R1 gestural metric claim
+2-s2.0-105016585554,10.1080/03007995.2025.2556012,32,873,3,weak-interpretability-language,False,False,R3 lifelong learning = pedagogical sense
+2-s2.0-105040120511,10.1515/9783111612034-015,33,642,0,strong,False,False,R5 CL signal incidental (one passing mention)
+2-s2.0-105011091920,,34,103,0,weak-interpretability-language,False,False,R4 proceedings front matter
+2-s2.0-85050629554,10.1145/3205455.3205618,35,1266,8,weak-interpretability-language,False,False,R1 gestural
+2-s2.0-105023386486,10.1007/978-3-032-03873-9_33,36,307,0,weak-interpretability-language,False,False,R5 no genuine ML CL
+2-s2.0-105021967877,10.36001/phmconf.2025.v17i1.4375,37,940,0,weak-interpretability-language,False,False,R1 gestural
+2-s2.0-105028415403,,38,195,0,strong,False,False,R4 proceedings front matter
+2-s2.0-105011762295,10.1109/TCYB.2025.3583035,39,731,9,weak-interpretability-language,False,True,
+2-s2.0-105003088633,10.1109/ACCESS.2025.3556569,40,910,5,weak-interpretability-language,False,False,R2 buzzword-list survey
+2-s2.0-105005572219,10.1177/02783649251336385,41,473,2,strong,False,True,STRICT excludes a manuscript-confirmed BRIDGE study (GOLLUM)
+2-s2.0-105023586634,10.1007/978-981-95-4499-8_1,42,163,2,strong,False,False,R3 lifelong learning = pedagogical sense
+2-s2.0-105045703475,10.3390/app16147319,43,107,0,weak-interpretability-language,False,False,R1 gestural review mention
+2-s2.0-105016604228,10.1109/ICDICI66477.2025.11135354,44,565,0,strong,False,True,
+2-s2.0-105005834027,10.1109/ISBI60581.2025.10980735,45,715,1,strong,False,False,R1 gestural (XAI side thin)
+2-s2.0-105047897418,10.1109/OTCON69332.2026.11629675,46,196,0,strong,True,True,
+2-s2.0-105035372269,10.1016/j.solener.2026.114524,47,243,1,weak-interpretability-language,False,True,
+2-s2.0-85142721063,10.1007/978-3-031-19836-6_26,48,1238,18,strong,False,True,
+2-s2.0-85211981018,10.1016/j.compeleceng.2024.110006,49,918,7,weak-interpretability-language,True,True,
+2-s2.0-105020025225,10.3390/info16100894,50,403,14,weak-interpretability-language,False,False,R2 buzzword-list survey
+2-s2.0-105011091920,,51,928,0,weak-interpretability-language,False,False,R4 proceedings front matter
+2-s2.0-85198972318,10.1145/3631700.3664900,52,898,3,strong,False,False,R1/R5 no genuine ML CL
+2-s2.0-105033610711,10.1109/ICFT66708.2025.11336729,53,510,1,weak-interpretability-language,False,False,R2 buzzword-list survey
+2-s2.0-105011091920,,54,648,0,weak-interpretability-language,False,False,R4 proceedings front matter
+2-s2.0-105047850656,10.1109/GSEACT68539.2026.11620378,55,167,0,weak-interpretability-language,False,False,R1 gestural (metric-only)
+2-s2.0-105030342702,10.1145/3785706.3785736,56,421,0,strong,True,True,
+2-s2.0-79951883690,10.1002/9780470569962.ch6,57,1615,7,weak-interpretability-language,False,True,
+2-s2.0-105041411075,10.3390/s26113405,58,405,0,strong,False,False,R2 buzzword-list survey
+2-s2.0-85203837562,,59,1275,14,weak-interpretability-language,False,True,
+2-s2.0-105022654318,10.1109/ICME59968.2025.11209383,60,941,1,weak-interpretability-language,False,False,R1 gestural

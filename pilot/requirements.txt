@@ -1,0 +1,10 @@
+# Versions used for the CPU smoke test (Python 3.13). On the GPU server, if this torch build does
+# not match the installed NVIDIA driver, install torch/torchvision for your CUDA version first
+# (see README) and keep the remaining pins.
+torch==2.15.0
+torchvision==0.29.2
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.1
+matplotlib==3.11.2
+scikit-learn==1.9.1

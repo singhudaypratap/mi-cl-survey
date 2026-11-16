@@ -1,0 +1,16 @@
+{
+  "MI_population": {
+    "papers": 2078,
+    "refs": 83066,
+    "mi": 4034,
+    "cl": 97,
+    "both": 1
+  },
+  "CL_population": {
+    "papers": 998,
+    "refs": 59922,
+    "mi": 75,
+    "cl": 13747,
+    "both": 7
+  }
+}

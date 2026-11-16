@@ -1,0 +1,9 @@
+raw/
+__pycache__/
+*.pyc
+.venv/
+runs/
+runs_*/
+pilot/data/
+*.log
+.DS_Store
